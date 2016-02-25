@@ -1,0 +1,12 @@
+{
+  "name": "roundpartner/excelservice",
+  "description": "A service for building spreadsheets",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Tom Lorentsen",
+      "email": "tom@thomaslorentsen.co.uk"
+    }
+  ]
+}
