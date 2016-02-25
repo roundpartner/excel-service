@@ -8,5 +8,8 @@
       "name": "Tom Lorentsen",
       "email": "tom@thomaslorentsen.co.uk"
     }
-  ]
+  ],
+  "require": {
+    "phpoffice/phpexcel": "^1.8"
+  }
 }
